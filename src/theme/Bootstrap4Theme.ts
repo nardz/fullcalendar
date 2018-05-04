@@ -31,7 +31,7 @@ Bootstrap4Theme.prototype.classes = {
   listView: 'card card-primary'
 }
 
-Bootstrap4Theme.prototype.baseIconClass = 'fa'
+Bootstrap4Theme.prototype.baseIconClass = 'fal'
 Bootstrap4Theme.prototype.iconClasses = {
   close: 'fa-times',
   prev: 'fa-chevron-left',
