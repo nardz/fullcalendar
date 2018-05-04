@@ -1,5 +1,5 @@
 tmp
-dist
+dist/locale
 
 # awesome-typescript-loader
 .awcache
